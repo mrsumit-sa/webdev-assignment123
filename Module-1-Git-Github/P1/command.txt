@@ -1,0 +1,67 @@
+PROGRAMMING FOR WEB DEVELOPMENT - I LABORATORY
+
+MODULE 1: TERMINAL, GIT & GITHUB
+
+P1: PROJECT FOLDER AND TERMINAL NAVIGATION
+
+AIM:
+To create a project folder and learn basic terminal navigation commands.
+
+COMMANDS USED:
+
+1. pwd
+   Displays the current working directory.
+
+2. ls
+   Lists files and folders in the current directory.
+
+3. mkdir web-development
+   Creates a folder named web-development.
+
+4. cd web-development
+   Moves into the web-development folder.
+
+5. cd ..
+   Moves one level up to the parent folder.
+
+6. touch P1.txt
+   Creates an empty file named P1.txt.
+
+7. clear
+   Clears the terminal screen.
+
+PROCEDURE:
+
+Step 1: Open the Terminal.
+
+Step 2: Check the current location:
+pwd
+
+Step 3: List files and folders:
+ls
+
+Step 4: Create a project folder:
+mkdir web-development
+
+Step 5: Enter the project folder:
+cd web-development
+
+Step 6: Create a text file:
+touch P1.txt
+
+Step 7: Verify the file:
+ls
+
+Step 8: Check the current location:
+pwd
+
+EXPECTED OUTPUT:
+
+P1.txt
+
+The current directory path should end with:
+/web-development
+
+RESULT:
+
+Successfully created the web-development project folder and learned how to navigate between directories using terminal commands.
